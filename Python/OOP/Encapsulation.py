@@ -18,4 +18,4 @@ class Derived(Base):
 # Driver code
 obj1 = Base()
 print(obj1.a)
-print(obj1.__c)
+print(obj1._Base__c)
