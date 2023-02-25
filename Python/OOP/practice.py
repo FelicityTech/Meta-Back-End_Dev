@@ -1,7 +1,13 @@
-
-value = 7
+a = 5
 class A:
-    value = 5
-a = A()
-a.value = 3
-print(value)
+      a = 7
+      pass
+
+class B(A):
+      pass
+
+class C(B):
+      pass
+
+c = C()
+print(c.a())
