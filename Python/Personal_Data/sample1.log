@@ -1,0 +1,16 @@
+2023-03-03 22:24:04,251:__main__:Tried to divide by zero
+2023-03-04 20:33:22,762:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/mnt/c/Users/hp/Desktop/github-felcitytech/Meta-Back-End_Dev/Python/Personal_Data/employee1.py", line 48, in divide
+    return x / y
+ZeroDivisionError: division by zero
+2023-03-04 20:37:00,299:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/mnt/c/Users/hp/Desktop/github-felcitytech/Meta-Back-End_Dev/Python/Personal_Data/employee1.py", line 50, in divide
+    return x / y
+ZeroDivisionError: division by zero
+2023-03-04 20:39:21,006:__main__:Tried to divide by zero
+Traceback (most recent call last):
+  File "/mnt/c/Users/hp/Desktop/github-felcitytech/Meta-Back-End_Dev/Python/Personal_Data/employee1.py", line 52, in divide
+    return x / y
+ZeroDivisionError: division by zero
