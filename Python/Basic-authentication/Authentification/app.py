@@ -65,3 +65,11 @@ def index():
 
 if __name__ == '__main__':
     app.run()
+
+
+# This code sets up a simple Flask application with a user model,
+# user database, and login/logout routes. When a user logs in with 
+# their credentials, Flask-Login authenticates the user and sets a 
+# session cookie to remember the user's login state. 
+# The @login_required decorator is used to protect the index page
+#  and ensure that only authenticated users can access it.
